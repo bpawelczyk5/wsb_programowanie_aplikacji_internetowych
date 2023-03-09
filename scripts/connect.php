@@ -1,3 +1,3 @@
 <?php
-	$conn = new mysqli("localhost", "root", "", "wsb_ziinz_2_k32_inf (w09)");
+	$conn = new mysqli("localhost", "root", "", "wsb");
 	//echo "db";
